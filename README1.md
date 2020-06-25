@@ -1,5 +1,5 @@
-#Taller 10
-##Trabajo Colaborativo
+# Taller 10
+## Trabajo Colaborativo
 
 1. Pantallazo primeros commit
 ![alt text](img/Imagen.jpg "Pantallazo")
