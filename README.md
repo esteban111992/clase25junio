@@ -1,8 +1,9 @@
 # README
 
 # Creando rama
+![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/Rama.png "Creando rama")
 
-![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/Rama.png"Creando rama")
+
 
 
 # Crear enlaces a páginas de segundo y tercer nivel
@@ -46,7 +47,7 @@
 
 
 ![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/Git%20log.png"Reset hard")
-![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/git%20log%202.png"Reset hard")
+![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/Reset%20hard.png"Reset hard")
 
 
 
