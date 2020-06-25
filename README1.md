@@ -5,6 +5,7 @@
 ![alt text](img/Imagen.jpg "Pantallazo")
 
 2. Pantallazo revert
+![alt text](img/revert.jpg "Pantallazo revert")
 
 3. Pantallazo git reset --soft
 
