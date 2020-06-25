@@ -46,8 +46,8 @@
 # Git log
 
 
-![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/Git%20log.png "Reset hard")
-![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/Reset%20hard.png "Reset hard")
+![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/Git%20log.png "Git log")
+![alt text](https://raw.githubusercontent.com/esteban111992/clase25junio/esteban/imgread/git%20log%202.png "Git log")
 
 
 
